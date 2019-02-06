@@ -1,0 +1,43 @@
+[33mcommit 4e4943b87fe51b79933f32f013d56567870130ff[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:58:51 2019 +0000
+
+    hh
+
+[33mcommit aa9f74606975982d4c42779880155a21ec75bf52[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:58:14 2019 +0000
+
+    jj
+
+[33mcommit fc62008907d9d87894f6c8c2b9041e2b440e5336[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:57:05 2019 +0000
+
+    jjj
+
+[33mcommit ae867008ae8924362ae65b1425db211fed73d514[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:32:19 2019 +0000
+
+    Revert "gg"
+    
+    This reverts commit 08aee6cf8564951425f11522b6b0d78bad7c7954.
+
+[33mcommit 5df8a6d404ab03d87c78dbae00138fb6fda17730[m[33m ([m[1;33mtag: v1.5[m[33m)[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:30:53 2019 +0000
+
+    this k
+
+[33mcommit 08aee6cf8564951425f11522b6b0d78bad7c7954[m[33m ([m[1;33mtag: v1.3[m[33m)[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:24:29 2019 +0000
+
+    gg
+
+[33mcommit 8e1442c9dfdb0dd7ef5b624d0094f38e2a9b205c[m[33m ([m[1;33mtag: v1.4[m[33m)[m
+Author: root <root@ip-172-31-35-221.us-east-2.compute.internal>
+Date:   Wed Feb 6 06:24:09 2019 +0000
+
+    ttt
